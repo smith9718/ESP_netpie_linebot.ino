@@ -5,7 +5,7 @@
 const char* ssid     = "Suppakit"; //change this to your SSID
 const char* password = "0877968808"; //change this to your PASSWORD
 
-const char* host = "https://smith9718/bot.php";                                   /*http://smith9718/UPV_chat-bot-php-" //https://github.com/smith9718/UPV_chat-bot-php-  //"http://numpapick-linebot.herokuapp.com/bot.php"*/
+const char* host = "https://https://smith9718/bot.php";      /*https://github.com/smith9718/UPV_chat-bot-php-  //"http://numpapick-linebot.herokuapp.com/bot.php"*/
 #define APPID   "TempUPV"     //change this to your APPID
 #define KEY     "0OZTubIBojp3pT9"     //change this to your KEY
 #define SECRET  "MzRiD9wjWZdctijAfJM07Hcx3"     //change this to your SECRET
